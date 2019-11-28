@@ -1,0 +1,1 @@
+insert into employee values (1,'03-dec-1996','IT','Mayank','male','Gupta')
